@@ -53,7 +53,10 @@
   // List of shopping items
   var itemsToBuy = [
     {name: 'Juice', quantity: '10 Bottles'},
-    {name: 'Cookies', quantity: '10 Boxes'}
+    {name: 'Cookies', quantity: '10 Packets'},
+    {name: 'Chips', quantity: '10 Packets'},
+    {name: 'Sandwich', quantity: '1 Order'},
+    {name: 'Pizzas', quantity: '10 Orders'},
   ];
   var itemsBought = [];
 
